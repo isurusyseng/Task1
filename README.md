@@ -46,4 +46,4 @@ Script to remove and Stop the service
 
 File: .circleci/config.yml
 
-This is the config file created to run the build job and deploy into a public server.
+This is the config file created for the (CI/CD) build job and deploy into a public server.
