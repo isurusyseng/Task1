@@ -11,9 +11,10 @@ The project contains a simple Python Flask Hello World Service with some unit te
 Prerequisites - Circle CI account / Any Online server (Linux) / Docker Hub account
 
 **Project Description:**
-
 File Structure:
+
 <img width="202" alt="image" src="https://user-images.githubusercontent.com/90499266/133021258-34005a41-62eb-480b-8c83-6275e6065941.png">
+
 
 
 File: hello_world.py
